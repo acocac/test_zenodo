@@ -1,0 +1,72 @@
+{
+    "communities": [
+        {
+            "identifier": "the-environmental-ds-community"
+        }
+    ],
+    "contributors": [
+        {
+            "affiliation": "Review1_affiliation",
+            "name": "Review1",
+            "type": "Other"
+        },
+        {
+            "affiliation": "Review2_affiliation",
+            "name": "Review2",
+            "type": "Other"
+        }
+    ],
+    "creators": [
+        {
+            "affiliation": "Random1_affiliation",
+            "name": "Random1"
+        },
+        {
+            "affiliation": "Random1_affiliation",
+            "name": "Random2"
+        }
+    ],
+    "keywords": [
+        "Geosciences",
+        "Atmospheric Science and Oceanography",
+        "general",
+        "exploration"
+    ],
+    "language": "eng",
+    "license": "MIT",
+    "related_identifiers": [
+        {
+            "identifier": "https://github.com/",
+            "relation": "isPartOf",
+            "resource_type": "other",
+            "scheme": "url"
+        },
+        {
+            "identifier": "10.5281/zenodo.6824189",
+            "relation": "isSupplementedBy",
+            "resource_type": "other",
+            "scheme": "doi"
+        },
+        {
+            "identifier": "10.1175/1520-0477(1996)077%3C0437:TNYRP%3E2.0.CO;2",
+            "relation": "references",
+            "resource_type": "publication",
+            "scheme": "doi"
+        }
+    ],
+    "subjects": [
+        {
+            "identifier": "http://schema.re3data.org/3-1/re3dataV3-1.xsd",
+            "scheme": "url",
+            "term": "Geosciences"
+        },
+        {
+            "identifier": "http://schema.re3data.org/3-1/re3dataV3-1.xsd",
+            "scheme": "url",
+            "term": "Atmospheric Science and Oceanography"
+        }
+    ],
+    "title": "Test (Jupyter Notebook) published in the Environmental Data Science book",
+    "upload_type": "software",
+    "version": "1.0.0"
+}
